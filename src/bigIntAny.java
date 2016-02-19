@@ -1,3 +1,7 @@
+/*Code written by Michael Luger (AKA Luggs123)
+ * Purpose: convert any integer between bases 2 to 64, using standard characters.
+ * */
+
 import java.util.Scanner;
 import java.math.BigInteger;
 
